@@ -70,16 +70,16 @@ print(result)
     "type": "phone",
     "count": 10,
     "data": [
-      "212-460-0024",
-      "1-846-413-1603",
-      "335-635-3189 x7230",
-      "642.244.2763 x8624",
-      "914.272.9333",
-      "1-353-419-2107 x8894",
-      "(712) 618-3444 x12418",
-      "1-320-897-6762 x7703",
-      "274.626.3573",
-      "233-516-9500"
+      "(364) 770-8812",
+      "(827) 720-3964 x763",
+      "1-898-417-2358 x46110",
+      "365.480.9402",
+      "(969) 592-7408 x66689",
+      "459.782.6464 x8246",
+      "231.883.7848 x0025",
+      "858.762.1413 x820",
+      "(950) 934-0850 x85099",
+      "(440) 213-3300 x538"
     ]
   },
   "code": 200
@@ -108,7 +108,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
